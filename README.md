@@ -1,4 +1,4 @@
-# Clinical-Virus-Detector-App
+# Clinical-Virus-Detector-GUI-Application
 
 
 A) The developement of this application was inspired from the springer paper which worked on comparing various algorithmic techniques for detecting virus based diseases from clinical text data . The virus based diseases considered in this case are COVID-19, SARS and ARDS.
